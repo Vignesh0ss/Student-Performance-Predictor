@@ -50,7 +50,7 @@ A comprehensive machine learning-powered web application that helps educators an
 ##  Demo
 
 ### Live Demo
-[View Live Application](https://your-github-username-student-performance-predictor.streamlit.app) *(Update with your deployed URL)*
+[View Live Application](https://vignesh0ss-student-performance-predictor-app.streamlit.app) *(Deploy on Streamlit Cloud)*
 
 ### Screenshots
 *Add screenshots of your application here*
@@ -74,7 +74,7 @@ A comprehensive machine learning-powered web application that helps educators an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/student-performance-predictor.git
+   git clone https://github.com/Vignesh0ss/Student-Performance-Predictor.git
    cd student-performance-predictor
    ```
 
