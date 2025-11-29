@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+school_data.db
+test_school_data.db
+
+# Model files (can be large)
+models.pkl
+*.pkl
+*.pickle
+
+# Logs and temporary files
+*.log
+daily_logs.csv
+scores.csv
+features.csv
+students.csv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (keep sample data, exclude generated)
+# Keep: student-mat.csv, student-por.csv
+# Remove: Any generated CSV files except samples
